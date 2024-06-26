@@ -4,7 +4,7 @@ Very simple IRC log bot written in Go.
 
 ## Usage
 
-The command file is in [cmd/irclogbot.go](./cmd/irclogbot.go).
+The command file is in [cmd/ircbot.go](./cmd/irclogbot.go).
 
 It will write to the [logs](./logs) directory by default.
 
